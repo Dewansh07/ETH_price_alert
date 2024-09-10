@@ -1,0 +1,8 @@
+validator_address: "0x00000000219ab540356cBB839Cbe05303d7705Fa"
+rpc_endpoint: "https://eth-mainnet.g.alchemy.com/v2/RZyKZ9Nei_PpmCPP3dqfmF04VlDaupl6"
+checkpoint_api: "https://eth-mainnet.g.alchemy.com/v2/RZyKZ9Nei_PpmCPP3dqfmF04VlDaupl6"
+alchemy_api: "https://eth-mainnet.g.alchemy.com/v2/RZyKZ9Nei_PpmCPP3dqfmF04VlDaupl6"
+telegram_bot_token: "7359291244:AAEezJoCYMbC-4pvPFURFuZlhAFd82Sgb8k"
+telegram_chat_id: "5064617071"
+check_interval: 300
+max_height_difference: 1000
